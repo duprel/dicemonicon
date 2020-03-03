@@ -66,7 +66,7 @@
 	<variable kind="number" name="DEX">1</variable>
 	<variable kind="number" name="FIGHTERLVL">17</variable>
 	<variable kind="number" name="INT">-1</variable>
-	<variable kind="number" name="LVL">20</variable>
+	<variable kind="number" name="LVL">17</variable>
 	<variable kind="number" name="PROF">5</variable>
 	<variable kind="number" name="SHLDBONUS">3</variable>
 	<variable kind="number" name="STR">5</variable>
